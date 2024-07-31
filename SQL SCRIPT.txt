@@ -1,0 +1,35 @@
+USE [CustomerDB]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[CustomerMaster](
+	[CustomerCode] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [nvarchar](100) NULL,
+	[Address] [nvarchar](200) NULL,
+	[Email] [nvarchar](100) NULL,
+	[MobileNo] [varchar](15) NULL,
+	[GeoLocation] [varchar](150) NULL,
+ CONSTRAINT [PK_CustomerMaster] PRIMARY KEY CLUSTERED 
+(
+	[CustomerCode] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+SET IDENTITY_INSERT [dbo].[CustomerMaster] ON 
+GO
+
+
+INSERT INTO [dbo].[CustomerMaster] ([Name], [Address], [Email], [MobileNo], [GeoLocation])
+VALUES
+('John Doe', '123 Main St', 'john.doe@example.com', '1234567890', '40.7128,-74.0060'),
+('Jane Smith', '456 Elm St', 'jane.smith@example.com', '0987654321', '34.0522,-118.2437'),
+('Mike Johnson', '789 Maple St', 'mike.johnson@example.com', '2345678901', '41.8781,-87.6298'),
+('Emily Davis', '321 Oak St', 'emily.davis@example.com', '3456789012', '29.7604,-95.3698'),
+('David Wilson', '654 Pine St', 'david.wilson@example.com', '4567890123', '39.7392,-104.9903'),
+('Sarah Brown', '987 Cedar St', 'sarah.brown@example.com', '5678901234', '33.4484,-112.0740'),
+('Chris Lee', '111 Birch St', 'chris.lee@example.com', '6789012345', '37.7749,-122.4194'),
+('Anna Taylor', '222 Walnut St', 'anna.taylor@example.com', '7890123456', '47.6062,-122.3321'),
+('James White', '333 Poplar St', 'james.white@example.com', '8901234567', '32.7767,-96.7970'),
+('Laura Harris', '444 Cherry St', 'laura.harris@example.com', '9012345678', '39.9526,-75.1652');

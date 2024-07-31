@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|d:\\akhila\\customermanagementapplication\\customerapi\\customerapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|d:\\akhila\\customermanagementapplication\\customerapi\\customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|d:\\akhila\\customermanagementapplication\\customerapi\\customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|d:\\akhila\\customermanagementapplication\\customerapi\\customerapi\\models\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\models\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|d:\\akhila\\customermanagementapplication\\customerapi\\customerapi\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|d:\\akhila\\customermanagementapplication\\customerapi\\customerapi\\customerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75C210D2-F7F8-4241-8328-543B73A71AF9}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\customerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerApi\\Program.cs",
+              "ToolTip": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Program.cs",
+              "RelativeToolTip": "CustomerApi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:31:50.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDetails.cs",
+              "DocumentMoniker": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Models\\CustomerDetails.cs",
+              "RelativeDocumentMoniker": "CustomerApi\\Models\\CustomerDetails.cs",
+              "ToolTip": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Models\\CustomerDetails.cs",
+              "RelativeToolTip": "CustomerApi\\Models\\CustomerDetails.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:14:16.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerApi.csproj",
+              "DocumentMoniker": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\CustomerApi.csproj",
+              "RelativeDocumentMoniker": "CustomerApi\\CustomerApi.csproj",
+              "ToolTip": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\CustomerApi.csproj",
+              "RelativeToolTip": "CustomerApi\\CustomerApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T07:13:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Services\\DbService.cs",
+              "RelativeDocumentMoniker": "CustomerApi\\Services\\DbService.cs",
+              "ToolTip": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Services\\DbService.cs",
+              "RelativeToolTip": "CustomerApi\\Services\\DbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:11:34.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerApi\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerApi\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAjwEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:10:57.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Akhila\\CustomerManagementApplication\\CustomerApi\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAjwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:06:05.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
