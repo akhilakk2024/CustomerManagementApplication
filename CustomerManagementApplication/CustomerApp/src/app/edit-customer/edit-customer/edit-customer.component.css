@@ -1,0 +1,109 @@
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+/* Heading style */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Form group styling */
+.form-group {
+  margin-bottom: 15px;
+}
+
+/* Label styling */
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Input field styling */
+input.form-control {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Input field focus state */
+input.form-control:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Button styling */
+button.btn {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+button.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+button.btn-secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+button.btn-secondary:hover {
+  background-color: #5a6268;
+}
+
+/* Align buttons */
+button + button {
+  margin-left: 10px;
+}
+
+/* Error message styling */
+.error-message {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+/* Make form responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+} 
+.error {
+  margin-top: 5px;
+  color: red;
+  font-size: 14px;
+}
+
+.is-invalid {
+  border-color: red;
+}
+
+.is-invalid:focus {
+  border-color: darkred;
+  box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
+}
+ 
+
+ 
+ 
