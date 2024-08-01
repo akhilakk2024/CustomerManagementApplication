@@ -1,0 +1,85 @@
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.top-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.button-container {
+    display: flex;
+    gap: 10px;
+}
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover {
+    background-color: #0056b3;
+}
+.customer-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.customer-table th, .customer-table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+.customer-table th {
+    background-color: #007bff;
+    color: white;
+}
+.customer-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.actions button {
+    margin-right: 10px; /* Added margin between buttons */
+    background-color: #28a745;
+}
+.actions button:last-child {
+    margin-right: 0; /* No margin for the last button */
+    background-color: #dc3545;
+}
+.actions button:hover {
+    opacity: 0.8;
+}
+.actions {
+    display: flex;
+    gap: 10px;
+}
+.search-box {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+@media print {
+    .container {
+      width: 100%;
+    }
+  
+    .button-container {
+      display: none;
+    }
+  }
